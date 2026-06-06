@@ -8,7 +8,7 @@
 - **Variadic Arguments:** Efficient processing of an unexpected number of parameters using `stdarg.h`.
 - **Supported Conversions:** Handles standard flags: `%c`, `%s`, `%p`, `%d`, `%i`, `%u`, `%x`, `%X`, and `%%`.
 - **Memory Efficient:** Direct string parsing and buffer management without memory leaks.
-- **Personal Study Notes:** [My Notion Notes](https://app.notion.com/p/vienatrip/Get-Next-Line-13100fe299ed80c1bb94ff4c9af12dd3?source=copy_link)
+- **Personal Study Notes:** [My Notion Notes](https://app.notion.com/p/vienatrip/Printf-11500fe299ed80f89a1ff99282a9d832?source=copy_link)
 
 ## 🛠️ Installation
 ```bash
