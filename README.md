@@ -12,6 +12,6 @@
 
 ## 🛠️ Installation
 ```bash
-git clone [https://github.com/ebalana/printf.git](https://github.com/ebalana/printf.git)
+git clone https://github.com/ebalana/printf.git
 cd printf
 make
